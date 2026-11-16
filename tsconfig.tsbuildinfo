@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/store.tsx","./src/components/settingsmodal.tsx","./src/components/trackers.tsx","./src/components/ui.tsx","./src/lib/date.ts","./src/lib/demo.ts","./src/lib/logic.ts","./src/lib/templates.ts","./src/lib/types.ts","./src/views/roadmapview.tsx","./src/views/todayview.tsx","./src/views/trackermaker.tsx"],"version":"5.9.3"}
